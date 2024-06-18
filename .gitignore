@@ -1,0 +1,5 @@
+.venv
+checkpoints
+logs
+__pycache__
+*.keras
